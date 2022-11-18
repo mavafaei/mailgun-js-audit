@@ -1,0 +1,13 @@
+# From .gitignore
+/npm-debug.log
+*.orig
+.idea
+dump.rdb
+main.js
+_book
+
+# Additions for .npmignore only
+test
+/docs/
+/bin/
+/.npmignore
