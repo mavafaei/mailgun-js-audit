@@ -1,11 +1,11 @@
 {
-  "name": "mailgun-js",
-  "description": "Simple Node.js helper module for Mailgun API",
+  "name": "mailgun-js-audit",
+  "description": "Simple Node.js helper module for Mailgun API - Fix Audit issues",
   "keywords": [
     "email",
     "mailgun"
   ],
-  "version": "0.23.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/bojand/mailgun-js",
   "license": "MIT",
   "repository": {
